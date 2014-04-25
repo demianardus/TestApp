@@ -1,0 +1,541 @@
+TTestApp
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/TopTerLabs/ios/TestApp/TestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o /Users/TopTerLabs/ios/TestApp/TestApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp normal i386
+cLd /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp normal x86_64
+cCreateUniversalBinary /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp normal i386\ x86_64
+cCopyStringsFile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/TopTerLabs/ios/TestApp/TestApp/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app /Users/TopTerLabs/ios/TestApp/TestApp/Images.xcassets
+cProcessInfoPlistFile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist /Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Info.plist
+cGenerateDSYMFile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+cTouch /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000532863A100000000000003B4
+t1395155873
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532863A8000000000000019E
+t1395155880
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000532863AA0000000000446820
+t1395155882
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532863AB000000000088D8C0
+t1395155883
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532863B00000000001F1DE10
+t1395155888
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000532863F10000000000000ADC
+t1395155953
+s2780
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m
+c00000000535A634600000000000007DE
+t1398432582
+s2014
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/Base.lproj/Main.storyboard
+c00000000535A65B200000000000011CC
+t1398433202
+s4556
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/Images.xcassets
+c00000000535A63460000000000000088
+t1398432582
+s136
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Info.plist
+c00000000535A634600000000000004C4
+t1398432582
+s1220
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Prefix.pch
+c00000000535A63460000000000000158
+t1398432582
+s344
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m
+c00000000535A6583000000000000022E
+t1398433155
+s558
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/en.lproj/InfoPlist.strings
+c00000000535A6346000000000000002D
+t1398432582
+s45
+
+N/Users/TopTerLabs/ios/TestApp/TestApp/main.m
+c00000000535A63460000000000000158
+t1398432582
+s344
+
+N/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app
+t1398435364
+s306
+
+N/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM
+t2
+s0
+
+N/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Base.lproj/Main.storyboardc
+t1398435364
+s170
+
+N/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist
+t1398435364
+s1008
+
+N/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/PkgInfo
+t1398435364
+s8
+
+N/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+t1398435356
+s42308
+
+N/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+t1398435356
+s42
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o
+t1398435356
+s61604
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp
+t1398435356
+s17236
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+c00000000535A6E1A000000000000016A
+t1398435354
+s362
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o
+t1398435356
+s42220
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+t1398435356
+s3500
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o
+t1398435356
+s68200
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp
+t1398435356
+s17732
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp.LinkFileList
+c00000000535A6E1A0000000000000170
+t1398435354
+s368
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o
+t1398435356
+s43376
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o
+t1398435356
+s3948
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/assetcatalog_dependencies.txt
+t1398435362
+s321
+
+N/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist
+t1398435362
+s525
+
+N/var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.pch
+t1398435355
+s116760
+
+N/var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.pch
+t1398435355
+s115984
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1172f699a50ab941^8f34209aa50ab941^---0#1#1#--18"Check dependencies36"50D435A2-AF11-4E57-AE28-4B11661010C1-
+
+CCompileAssetCatalog /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app /Users/TopTerLabs/ios/TestApp/TestApp/Images.xcassets
+s420128156.905175
+e420128162.871324
+r1
+xCompileAssetCatalog
+x/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app
+x/Users/TopTerLabs/ios/TestApp/TestApp/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/LaunchImage-700-568h@2x.png
+o/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Assets.car
+o/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/TestApp.app [1mTestApp/Images.xcassets[0m101"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/TestApp.app [1mTestApp/Images.xcassets[0meeece79ca50ab941^1310dfa2a50ab941^-349"/* com.apple.actool.compilation-results *//Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/LaunchImage-700-568h@2x.png/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Assets.car/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@61"file:///Users/TopTerLabs/ios/TestApp/TestApp/Images.xcassets/0000000000000000^1319"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/TestApp.app [1mTestApp/Images.xcassets[0m    cd /Users/TopTerLabs/ios/TestApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app /Users/TopTerLabs/ios/TestApp/TestApp/Images.xcassets36"2BAF8AE6-A546-4887-8A72-0CA8A810AB9F-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128155.835935
+e420128156.080166
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m
+d/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m206"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o [1mTestApp/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd317d69ba50ab941^6188149ca50ab941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m0000000000000000^3675"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o [1mTestApp/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -include /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o36"32D49A3B-5776-4A4A-8F52-1E74B6302004-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128155.835731
+e420128156.074245
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o
+x/Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m
+d/Users/TopTerLabs/ios/TestApp/TestApp/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m212"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o [1mTestApp/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera20bd69ba50ab941^0c02139ca50ab941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m0000000000000000^3693"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o [1mTestApp/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -include /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.dia -c /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o36"A8460EBA-5595-4603-8BA2-F0FFD157CB06-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o /Users/TopTerLabs/ios/TestApp/TestApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128155.836154
+e420128156.068457
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+x/Users/TopTerLabs/ios/TestApp/TestApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/main.m
+d/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/TopTerLabs/ios/TestApp/TestApp/main.m192"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o [1mTestApp/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb22ad69ba50ab941^de8d119ca50ab941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/TopTerLabs/ios/TestApp/TestApp/main.m0000000000000000^3633"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o [1mTestApp/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -include /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.dia -c /Users/TopTerLabs/ios/TestApp/TestApp/main.m -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o36"1D8C3A7C-DF9F-4C63-945C-6E92B43856D4-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128155.836787
+e420128156.080152
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m
+d/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m210"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o [1mTestApp/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler0a4dd69ba50ab941^1b85149ca50ab941^---0#0#1#-19%DVTDocumentLocation2@58"file:///Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m0000000000000000^3689"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o [1mTestApp/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/x86_64 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -include /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.m -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o36"F4600A1E-6841-4691-8974-4987B91AB036-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128155.836572
+e420128156.074258
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o
+x/Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m
+d/Users/TopTerLabs/ios/TestApp/TestApp/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m216"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o [1mTestApp/ViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler183ed69ba50ab941^990c139ca50ab941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m0000000000000000^3707"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o [1mTestApp/ViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/x86_64 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -include /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.dia -c /Users/TopTerLabs/ios/TestApp/TestApp/ViewController.m -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o36"17BC4E7E-B046-4973-9B30-8DC01B32D606-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCompileC build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o /Users/TopTerLabs/ios/TestApp/TestApp/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128155.836987
+e420128156.068455
+r1
+xCompileC
+xbuild/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o
+x/Users/TopTerLabs/ios/TestApp/TestApp/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/main.m
+d/Users/TopTerLabs/ios/TestApp/TestApp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /Users/TopTerLabs/ios/TestApp/TestApp/main.m196"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o [1mTestApp/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler6d59d69ba50ab941^cb86119ca50ab941^---0#0#1#-19%DVTDocumentLocation2@51"file:///Users/TopTerLabs/ios/TestApp/TestApp/main.m0000000000000000^3647"[1mCompileC[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o [1mTestApp/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/x86_64 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -include /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch -MMD -MT dependencies -MF /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.dia -c /Users/TopTerLabs/ios/TestApp/TestApp/main.m -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o36"50C3919C-ED48-47A4-80AF-4E9AE99F7C11-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCompileStoryboard /Users/TopTerLabs/ios/TestApp/TestApp/Base.lproj/Main.storyboard
+s420128156.904588
+e420128164.729233
+r1
+xCompileStoryboard
+x/Users/TopTerLabs/ios/TestApp/TestApp/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"[1mCompileStoryboard[0m [1mTestApp/Base.lproj/Main.storyboard[0m68"[1mCompileStoryboard[0m [1mTestApp/Base.lproj/Main.storyboard[0mf2b5e79ca50ab941^57afbaa4a50ab941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/TopTerLabs/ios/TestApp/TestApp/Base.lproj/Main.storyboard0000000000000000^1069"[1mCompileStoryboard[0m [1mTestApp/Base.lproj/Main.storyboard[0m    cd /Users/TopTerLabs/ios/TestApp    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Base.lproj/Main.storyboardc /Users/TopTerLabs/ios/TestApp/TestApp/Base.lproj/Main.storyboard36"4CA9C981-CEDF-4E5D-B3DA-1CE91994F464-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCopyStringsFile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings
+s420128156.904291
+e420128156.960484
+r1
+xCopyStringsFile
+x/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings
+xTestApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy TestApp/en.lproj/InfoPlist.strings127"[1mCopyStringsFile[0m build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings3eb0e79ca50ab941^9fe5f59ca50ab941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/TopTerLabs/ios/TestApp/TestApp/en.lproj/InfoPlist.strings0000000000000000^817"[1mCopyStringsFile[0m build/Release-iphonesimulator/TestApp.app/en.lproj/InfoPlist.strings TestApp/en.lproj/InfoPlist.strings    cd /Users/TopTerLabs/ios/TestApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/en.lproj -- TestApp/en.lproj/InfoPlist.strings36"423708A9-8044-4D1F-90F7-7F19EC70472D-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CCreateUniversalBinary /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp normal i386\ x86_64
+s420128156.853195
+e420128156.903584
+r1
+xCreateUniversalBinary
+x/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Create universal binary /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp107"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/TestApp.app/TestApp[0m normal i386\ x86_64c383da9ca50ab941^a054e79ca50ab941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp00343445deffdf42^1014"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/TestApp.app/TestApp[0m normal i386\ x86_64    cd /Users/TopTerLabs/ios/TestApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp -output /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp36"3CEA0DE4-6C4F-4098-B0E1-A2CABFD5C5AB-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CGenerateDSYMFile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+s420128164.794016
+e420128164.858233
+r1
+xGenerateDSYMFile
+x/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM
+x/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Generate /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM129"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/TestApp.app.dSYM[0m build/Release-iphonesimulator/TestApp.app/TestApp8466cba4a50ab941^afb5dba4a50ab941^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM00343445deffdf42^870"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/TestApp.app.dSYM[0m build/Release-iphonesimulator/TestApp.app/TestApp    cd /Users/TopTerLabs/ios/TestApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/TestApp -o /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app.dSYM36"DEF8009B-5EF2-4AF7-A7BE-3831EF55BE9C-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CLd /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp normal i386
+s420128156.080941
+e420128156.526964
+r1
+xLd
+x/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp
+xnormal
+xi386
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/ViewController.o
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/AppDelegate.o
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp108"[1mLd[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp normal i386a3ce149ca50ab941^c5e7869ca50ab941^---0#0#1#--1611"[1mLd[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp normal i386    cd /Users/TopTerLabs/ios/TestApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -filelist /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp_dependency_info.dat -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/i386/TestApp36"00915204-3769-408C-A4B0-7B975B52A163-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CLd /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp normal x86_64
+s420128156.081180
+e420128156.852339
+r1
+xLd
+x/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp
+xnormal
+xx86_64
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/ViewController.o
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp112"[1mLd[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp normal x86_64c7d9149ca50ab941^6a33da9ca50ab941^---0#0#1#--1623"[1mLd[0m build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp normal x86_64    cd /Users/TopTerLabs/ios/TestApp    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator -filelist /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp_dependency_info.dat -o /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/Objects-normal/x86_64/TestApp36"DF554879-BC4B-45FC-94F5-57BD97ED7C67-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CProcessInfoPlistFile /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist /Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Info.plist
+s420128164.729775
+e420128164.793133
+r1
+xProcessInfoPlistFile
+x/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist
+x/Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Process /Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Info.plist116"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/TestApp.app/Info.plist [1mTestApp/TestApp-Info.plist[0m54e6baa4a50ab941^1b0ecba4a50ab941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Info.plist0000000000000000^1068"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/TestApp.app/Info.plist [1mTestApp/TestApp-Info.plist[0m    cd /Users/TopTerLabs/ios/TestApp    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    builtin-infoPlistUtility /Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Info.plist -genpkginfo /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/assetcatalog_generated_info.plist -o /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app/Info.plist36"FA98E8EB-CE7A-4733-A88D-F10B16AD4430-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CProcessPCH /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128154.129121
+e420128155.834706
+r1
+xProcessPCH
+x/var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.pch
+xTestApp/TestApp-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TestApp/TestApp-Prefix.pch298"[1mProcessPCH[0m /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7825219aa50ab941^03b0d59ba50ab941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Prefix.pch0000000000000000^3774"[1mProcessPCH[0m /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/x86_64 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator --serialize-diagnostics /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.d -c /Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Prefix.pch -o /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-ayhccfkoulpxeygzfzzhujinmnkt/TestApp-Prefix.pch.pch36"4B6D2A51-EA10-4608-9BDC-1965C90E65DE-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CProcessPCH /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420128154.128796
+e420128155.835016
+r1
+xProcessPCH
+x/var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.pch
+xTestApp/TestApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TestApp/TestApp-Prefix.pch296"[1mProcessPCH[0m /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4f23219aa50ab941^d2c6d59ba50ab941^---0#0#1#-19%DVTDocumentLocation2@63"file:///Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Prefix.pch0000000000000000^3768"[1mProcessPCH[0m /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.pch TestApp/TestApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/TopTerLabs/ios/TestApp    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@railstutorial_rails_4_0/bin:/Users/TopTerLabs/.rvm/gems/ruby-2.0.0-p451@global/bin:/Users/TopTerLabs/.rvm/rubies/ruby-2.0.0-p451/bin:/usr/bin/:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/Users/TopTerLabs/.rvm/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-generated-files.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-own-target-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-all-target-headers.hmap -iquote /Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/TestApp-project-headers.hmap -I/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources/i386 -I/Users/TopTerLabs/ios/TestApp/build/TestApp.build/Release-iphonesimulator/TestApp.build/DerivedSources -F/Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator --serialize-diagnostics /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.d -c /Users/TopTerLabs/ios/TestApp/TestApp/TestApp-Prefix.pch -o /var/folders/5f/2sj8lk593ssd2sm0nbf1kzt40000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/TestApp-Prefix-fvcksmhlhsvdcpfozxtdbhflswmp/TestApp-Prefix.pch.pch36"649D5571-7F46-4552-B9E9-F16F099573EE-
+b30BB29E4-BF6D-4437-87CB-497001F01323
+
+CTouch /Users/TopTerLabs/ios/TestApp/build/Release-iphonesimulator/TestApp.app
+r0
+

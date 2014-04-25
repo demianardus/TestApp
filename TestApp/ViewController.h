@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+    __weak IBOutlet UILabel *helloWorld;
+}
+
+
+-(IBAction) appear;
 
 @end
