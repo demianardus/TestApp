@@ -1,5 +1,4 @@
-task :default do
-end
+task :default => [:run_tests] 
 
 task :run_tests do
   puts 'Running JS tests...'
