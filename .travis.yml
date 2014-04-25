@@ -10,4 +10,4 @@ bundler_args: "--without development"
 before_script:
 
 script.:
-  - bundle exec rake run_tests
+  - rspec TestAppTests/TestApp.rb
