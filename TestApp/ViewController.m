@@ -29,6 +29,7 @@
 
 -(IBAction) appear{
     [helloWorld setText:@"Hello World!"];
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"http://facebook.com"]];
 }
 
 @end
